@@ -1,5 +1,6 @@
 hello: 
     wang: 
         a: hello,devconfigurations.wang a
-        b: hello,devconfigurations.wang b
+        b:
+            b1: hello,devconfigurations.wang b
     feng: hello, devconfigurations feng
